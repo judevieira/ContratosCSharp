@@ -11,6 +11,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("---------------------");
+            Console.WriteLine("CONTRATOS DE TRABALHO"); //TESTE GIT
+            Console.WriteLine("---------------------");
             Console.Write("Entre com o nome do departamento: ");
             string nomeDepart = Console.ReadLine();
 

@@ -12,3 +12,4 @@ C:\Users\Kirchmann\Desktop\jude\aulas\ConsoleApp1\obj\Debug\net7.0\refint\Consol
 C:\Users\Kirchmann\Desktop\jude\aulas\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
 C:\Users\Kirchmann\Desktop\jude\aulas\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Kirchmann\Desktop\jude\aulas\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\Kirchmann\Desktop\jude\aulas\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.sourcelink.json
